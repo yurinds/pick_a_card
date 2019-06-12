@@ -1,0 +1,1 @@
+# Запуск: ruby pick_a_card.rb
